@@ -44,4 +44,4 @@ All API routes are prepended with the prefix - `/api/v1`
 
 </details>
 
-[Nodejs developer]("https://hng.tech/hire/nodejs-developers")
+[Nodejs developer](https://hng.tech/hire/nodejs-developers)
