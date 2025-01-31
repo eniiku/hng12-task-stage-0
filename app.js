@@ -6,7 +6,7 @@ const port = 3000;
 
 app.use(cors())
 
-app.get("api/v1/details", (req, res) => {
+app.get("/api/v1/details", (req, res) => {
   res.status(200).json({
     email: "enikuauth@gmail.com",
     current_datetime: new Date().toISOString(),
